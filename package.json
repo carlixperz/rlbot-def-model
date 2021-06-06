@@ -1,0 +1,28 @@
+{
+  "name": "RLBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ainasepics": "^1.7.5",
+    "akaneko": "^5.0.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.3.0",
+    "marsnpm": "^0.5.1",
+    "mongoose": "^5.12.10",
+    "node-superfetch": "^0.2.3",
+    "opusscript": "0.0.8",
+    "random-animal.js": "^1.0.3",
+    "sakuranpm": "^1.1.0",
+    "sqlite3": "^5.0.2",
+    "star-labs": "^1.1.2",
+    "zeew": "^0.1.11"
+  }
+}

@@ -1,0 +1,21 @@
+{
+ "error": {
+  "uso": "Command used wrongly.",
+  "noArgs": {
+   "mention": "You need to mention an user.",
+   "arg": "You need to write a message.",
+   "channel": "You need to mention a text channel.",
+   "rol": "You need to mention a role."
+  },
+  "incoArgs": {
+   "text": "Wrong argument.",
+   "cmd": "Wrong command."
+  },
+  "noFound": {
+   "cmd": "I couldn't find that command.",
+   "channel": "I couldn't find that channel.",
+   "mention": "I couldn't find that user."
+  },
+  "noPerms": "You don't have enough permissions to use that command."
+ }
+}
