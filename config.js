@@ -1,6 +1,7 @@
 module.exports = {
   dirBase : './database/db/prefixdata.db',
   prefix: 'rl!',
+  token: 'BOT-TOKEN',
   categories: [{name: 'info', priority: 5}, {name: 'interaction', priority: 3}, {name: 'fun', priority: 2}, {name: 'images', priority: 1}, {name: 'NSFW', priority: 3}, {name: 'moderation', priority: 5}, {name: 'secret', priority: 2}, {name: 'rl', priority: 3}, {name: 'dbcmds', priority: 3}, {name: 'imgedit', priority: 3}],
   superusers: ['607571230303977493', '605371725118701584'],
   groups: [
