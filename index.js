@@ -49,4 +49,4 @@ client.on("message", async message => {
   if ((result = false)) console.log(message, "Comando inexistente");
 });
 
-client.login(process.env['token']);
+client.login(config.token);
